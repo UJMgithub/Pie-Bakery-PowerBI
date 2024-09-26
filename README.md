@@ -1,4 +1,4 @@
-@@ -0,0 +1,26 @@
+
 Overview
 The Pie Bakery PowerBI Dashboard provides an analytical view of the bakery's historical operations. It enables users to gain insights into pie production, sales, and inventory by leveraging interactive data visuals. The dashboard is designed to help bakery managers and stakeholders make informed decisions by analyzing key performance indicators (KPIs), trends, and patterns.
 
